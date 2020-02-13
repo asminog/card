@@ -1,0 +1,10 @@
+{
+  "name": "asminog/cc-card",
+  "description": "Card lets you add an interactive, CSS3 credit card animation to your credit card form to help your users through the process.",
+  "keywords": ["CC", "Card", "Credit Card", "js"],
+  "homepage": "https://github.com/asminog/cc-card",
+  "support": {
+    "issues": "https://github.com/asminog/cc-card/issues",
+    "source": "https://github.com/asminog/cc-card"
+  }
+}
